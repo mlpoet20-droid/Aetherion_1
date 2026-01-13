@@ -1,0 +1,4 @@
+buildscript {}
+plugins {
+    id 'com.android.library' version '8.13.1' apply false
+}
